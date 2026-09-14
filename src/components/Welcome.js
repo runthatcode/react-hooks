@@ -1,6 +1,7 @@
 // import LikeButtonExample from '../components/LikeButtonExample'
 // import DogFetchExample from '../components/DogFetchExample'
-import MusicPlayerExample from '../components/MusicPlayerExample'
+// import MusicPlayerExample from '../components/MusicPlayerExample'
+import VideoPlayerExample from '../components/VideoPlayerExample'
 function Welcome() {
   return (
         <>
@@ -9,7 +10,8 @@ function Welcome() {
             <div className='hook-blocks'>
               {/* <LikeButtonExample/> */}
               {/* <DogFetchExample/> */}
-              <MusicPlayerExample/>
+              {/* <MusicPlayerExample/> */}
+              <VideoPlayerExample/>
             </div>
         </>
   );
