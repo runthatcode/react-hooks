@@ -1,7 +1,9 @@
 // import LikeButtonExample from '../components/LikeButtonExample'
 // import DogFetchExample from '../components/DogFetchExample'
 // import MusicPlayerExample from '../components/MusicPlayerExample'
-import VideoPlayerExample from '../components/VideoPlayerExample'
+// import VideoPlayerExample from '../components/VideoPlayerExample'
+// import WordCounterExample from '../components/WordCounterExample'
+import CallbackExample from '../components/CallbackExample'
 function Welcome() {
   return (
         <>
@@ -11,7 +13,9 @@ function Welcome() {
               {/* <LikeButtonExample/> */}
               {/* <DogFetchExample/> */}
               {/* <MusicPlayerExample/> */}
-              <VideoPlayerExample/>
+              {/* <VideoPlayerExample/> */}
+              {/* <WordCounterExample/> */}
+              <CallbackExample/>
             </div>
         </>
   );
